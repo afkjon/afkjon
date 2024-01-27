@@ -1,7 +1,6 @@
 <h1>Hello, I'm Jonathon! 👋</h1>
 
-<p align="center">
-  <img src="https://gpvc.arturio.dev/afkjon" alt="profile views"> •  
+<p align="center">  
   <a href="https://twitter.com/intent/follow?screen_name=translatorjon&tw_p=followbutton"><img src="https://img.shields.io/twitter/follow/translatorjon?label=%40translatorjon&style=social"></a>
 </p>
 
