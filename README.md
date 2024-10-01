@@ -1,4 +1,4 @@
-# Hello, I'm [Jon] 👋
+# Hello, I'm Jon 👋
 
 ## Bilingual Software Developer | Full Stack Web Engineer | Cloud Computing Enthusiast
 
@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm a passionate software developer with a unique 
 Here's a little bit about me:
 
 ### 🌐 Bilingual Proficiency
-- Fluent in [English] and [Japanese]
+- Fluent in English and Japanese
 - Leveraging my language skills as a project manager to bridge communication gaps in global development teams
 
 ### 💻 Full Stack Web Development
@@ -20,13 +20,12 @@ Here's a little bit about me:
 - Proficient in cloud-native development and serverless architectures
 - Skilled in containerization and orchestration (Docker, Kubernetes)
 
-### 🚀 What I'm Up To
-- Currently working on: [Brief description of your current project]
-- Learning: [Go]
-- Looking to collaborate on: [Type of projects you're interested in]
-
-
 <!-- 
+### 🚀 What I'm Up To
+- Currently working on: 
+- Learning: Go and Platform Engineering
+- Looking to collaborate on: 
+
 ### 📫 How to Reach Me
 - LinkedIn: [Your LinkedIn profile URL]
 - Email: [Your professional email address]
