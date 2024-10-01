@@ -1,6 +1,6 @@
 # Hello, I'm Jon 👋
 
-## Bilingual Software Developer | Full Stack Web Engineer | Cloud Computing Enthusiast
+## Bilingual Project Manager | Full Stack Web Engineer | Cloud Computing Enthusiast
 
 Welcome to my GitHub profile! I'm a passionate software developer with a unique blend of skills and experiences. 
 
