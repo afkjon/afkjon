@@ -1,40 +1,18 @@
-# Hello, I'm Jon 👋
+👋 Hey, I’m Jon
 
-## Bilingual Project Manager | Software Generalist 
+I'm a full-stack developer who builds systems with an emphasis on data-driven design, scalability, and maintainable architecture.
+My work bridges thoughtful design with practical engineering—shipping software that scales, observes itself, and adapts to real-world use. I enjoy designing APIs, building event-driven pipelines, and making performance metrics a first-class part of the system.
 
-Welcome to my GitHub profile! I'm a passionate software developer with a unique blend of skills and experiences. 
+### 🧠 Core Principles
 
-Here's a little bit about me:
+- Data-Informed Development – Metrics and telemetry guide decisions, not guesses.
+- Scalability First – Architected for growth, not quick fixes.
+- Simplicity over Cleverness – Readable, maintainable code > intricate hacks.
+- System Thinking – Everything is a tradeoff, I try to make the right ones.
 
-### 🌐 Bilingual Proficiency
-- Fluent in English and Japanese
-- Leveraging my language skills as a project manager to bridge communication gaps in global development teams
+### 🛠️ Tools I Reach For
 
-### 💻 Full Stack Web Development
-- Framewor TypeScript (React), C# (ASP.NET)
-- Backend: Next.js, Python (Django), Go
-- Database: SQL (SQL Server, PostgreSQL, MySQL), NoSQL (MongoDB)
-
-### ☁️ Cloud Computing
-- Experienced with major cloud platforms (AWS, Azure, Google Cloud)
-- Proficient in cloud-native development and serverless architectures
-- Skilled in containerization and orchestration (Docker, Kubernetes)
-
-<!-- 
-### 🚀 What I'm Up To
-- Currently working on: 
-- Learning: Go and Platform Engineering
-- Looking to collaborate on: 
-
-### 📫 How to Reach Me
-- LinkedIn: [Your LinkedIn profile URL]
-- Email: [Your professional email address]
-- Personal Website: [If applicable]
-
-### 🛠️ Languages and Tools
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=afkjon&layout=compact) 
--->
-
----
-
-⭐️ From [afkjon](https://github.com/afkjon)
+- Languages: Go, Python, TypeScript
+- Data & Infra: PostgreSQL, Kafka, Redis, Prometheus, Docker, Kubernetes
+- Architecture: Event-driven systems, service-oriented backends, pub/sub pipelines
+- Testing & Observability: Pytest, Testcontainers, OpenTelemetry, Grafana
